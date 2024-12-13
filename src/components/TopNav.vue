@@ -2,7 +2,7 @@
   <nav>
     <div class="logo">
       <a href="/">
-        <img src="/BestBuy-Logo.png" alt="Best Buy Logo">
+        <img src="/BestBuy-Logo.png" alt="BestBuy Logo">
       </a>
     </div>
     <button class="hamburger" @click="toggleNav">
